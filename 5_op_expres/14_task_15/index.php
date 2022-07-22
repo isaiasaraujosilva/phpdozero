@@ -9,4 +9,9 @@
     if($a != $c){
         echo "valores diferentes"."<br>";
     }
+    if(5 === 5){
+
+        echo "Teste de comparação de tipos";
+
+    }
 ?>
