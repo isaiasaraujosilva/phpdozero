@@ -1,5 +1,5 @@
 <?php
-   # criar operador de igualdade entre os operadores / == /===-
+   # 
 
    $a = 1;
    $b = "1";
